@@ -10,5 +10,6 @@ Create Project
 
 Adding dependencies
 
-`npm install react-native-dotenv`
+`npm install react-native-dotenv` &
+
 `npm install babel`
