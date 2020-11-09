@@ -13,3 +13,7 @@ Adding dependencies
 `npm install react-native-dotenv` &
 
 `npm install babel`
+
+Make sure you create an account in here: `https://home.openweathermap.org/`.
+
+Get your API & Set up an .env file with the API_Key
