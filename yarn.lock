@@ -1555,6 +1555,13 @@
   dependencies:
     "object.assign" "^4.1.0"
 
+"babel-plugin-inline-dotenv@^1.6.0":
+  "integrity" "sha512-oWd5JmwfzdFN38PMBn35Ac1d+DKCkgIxKieEyWON3QTa4hCZV+VcTxaYkfQFMTwiqgCxe0a8o8NWyVjWwrrLXw=="
+  "resolved" "https://registry.npmjs.org/babel-plugin-inline-dotenv/-/babel-plugin-inline-dotenv-1.6.0.tgz"
+  "version" "1.6.0"
+  dependencies:
+    "dotenv" "^8.2.0"
+
 "babel-plugin-module-resolver@^3.2.0":
   "integrity" "sha512-tjR0GvSndzPew/Iayf4uICWZqjBwnlMWjSx6brryfQ81F9rxBVqwDJtFCV8oOs0+vJeefK9TmdZtkIFdFe1UnA=="
   "resolved" "https://registry.npmjs.org/babel-plugin-module-resolver/-/babel-plugin-module-resolver-3.2.0.tgz"
@@ -1663,11 +1670,6 @@
     "@babel/plugin-transform-spread" "^7.0.0"
     "@babel/plugin-transform-template-literals" "^7.0.0"
     "babel-plugin-syntax-trailing-function-commas" "^7.0.0-beta.0"
-
-"babel@^6.23.0":
-  "integrity" "sha1-0NHn2APpdHZb7qMjLU4VPA77kPQ="
-  "resolved" "https://registry.npmjs.org/babel/-/babel-6.23.0.tgz"
-  "version" "6.23.0"
 
 "badgin@^1.1.2":
   "integrity" "sha512-fNQfINGo8xC5NeoCne4DE+Tj5slDQ1+Go7nScIRIEKJJSA9MZkuwxAcTpa5RABuehfBis3uiiELlJrSFn4aBtQ=="
@@ -2271,7 +2273,7 @@
   "resolved" "https://registry.yarnpkg.com/destroy/-/destroy-1.0.4.tgz"
   "version" "1.0.4"
 
-"dotenv@^8.0.0":
+"dotenv@^8.2.0":
   "integrity" "sha512-8sJ78ElpbDJBHNeBzUbUVLsqKdccaa/BXF1uPTw3GrvQTBgrQrtObr2mUrE38vzYd8cEv+m/JBfDLioYcfXoaw=="
   "resolved" "https://registry.npmjs.org/dotenv/-/dotenv-8.2.0.tgz"
   "version" "8.2.0"
@@ -4682,13 +4684,6 @@
   "integrity" "sha512-24e6ynE2H+OKt4kqsOvNd8kBpV65zoxbA4BVsEOB3ARVWQki/DHzaUoC5KuON/BiccDaCCTZBuOcfZs70kR8bQ=="
   "resolved" "https://registry.yarnpkg.com/react-is/-/react-is-16.13.1.tgz"
   "version" "16.13.1"
-
-"react-native-dotenv@^2.4.2":
-  "integrity" "sha512-j2ig8RTdv+PQ6JemHzIskqrbjfFpV82Wd5v9cIAEZsw5wto864R4BW7gn8r347SKystdokZbMosdIRyYMXVi1Q=="
-  "resolved" "https://registry.npmjs.org/react-native-dotenv/-/react-native-dotenv-2.4.2.tgz"
-  "version" "2.4.2"
-  dependencies:
-    "dotenv" "^8.0.0"
 
 "react-native-safe-area-context@3.1.4":
   "integrity" "sha512-bXx3hqz4LovFoMnJIRGIWL2oJ/PHadXviBKvgZV9yNErtURQLJSn0yfQytVtiqslhaBMZOJwH4R6HiClyofvBg=="
